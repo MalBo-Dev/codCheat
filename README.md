@@ -95,14 +95,16 @@ https://user-images.githubusercontent.com/111338534/203380284-78c2f636-7831-47d0
      <td>Great character</td>
   </tr>
   <tr>
-    <td valign="top"><video width="50%" controls>
-  <source src="https://user-images.githubusercontent.com/111338534/203379556-5b37625e-e17e-4e5a-a9ae-cecc1b509699.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video></td>
-    <td valign="top"><video width="50%" controls>
-  <source src="https://user-images.githubusercontent.com/111338534/203379183-fe1c2fff-c9f0-4582-97ea-5f9396161133.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video></td>
+    <td valign="top">
+    
+      https://user-images.githubusercontent.com/111338534/203379556-5b37625e-e17e-4e5a-a9ae-cecc1b509699.mp4
+      
+    </td>
+    <td valign="top">
+    
+      https://user-images.githubusercontent.com/111338534/203379183-fe1c2fff-c9f0-4582-97ea-5f9396161133.mp4
+    
+    </td>
   </tr>
  </table>
 
