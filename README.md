@@ -44,13 +44,13 @@
 
 فیلم هایی از اجرای اسکریپت :
 
-https://user-images.githubusercontent.com/111338534/203357828-cb1a761e-a2fd-439b-befa-45c7809ebf6d.jpg
+<img src='https://user-images.githubusercontent.com/111338534/203357828-cb1a761e-a2fd-439b-befa-45c7809ebf6d.jpg'>
 
-https://user-images.githubusercontent.com/111338534/203357805-1bdcc16c-24f2-409d-9307-8987a2edcc6f.jpg
+<img src='https://user-images.githubusercontent.com/111338534/203357805-1bdcc16c-24f2-409d-9307-8987a2edcc6f.jpg'>
 
-https://user-images.githubusercontent.com/111338534/203357702-6c79a876-9a89-41e2-b6c6-fbb01faffcea.jpg
+<img src='https://user-images.githubusercontent.com/111338534/203357702-6c79a876-9a89-41e2-b6c6-fbb01faffcea.jpg'>
 
-https://user-images.githubusercontent.com/111338534/203357656-7eb927b1-f3ca-4d55-988e-1940371b7e03.jpg
+<img src='https://user-images.githubusercontent.com/111338534/203357656-7eb927b1-f3ca-4d55-988e-1940371b7e03.jpg'>
 
 
 موفق باشید
