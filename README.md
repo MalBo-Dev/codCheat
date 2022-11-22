@@ -80,9 +80,8 @@ https://user-images.githubusercontent.com/111338534/203380284-78c2f636-7831-47d0
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>high jump</td>
+     <td>Great character</td>
   </tr>
   <tr>
     <td valign="top"><img src="https://user-images.githubusercontent.com/111338534/203357828-cb1a761e-a2fd-439b-befa-45c7809ebf6d.jpg"></td>
@@ -90,9 +89,16 @@ https://user-images.githubusercontent.com/111338534/203380284-78c2f636-7831-47d0
   </tr>
  </table>
 
-<img src='https://user-images.githubusercontent.com/111338534/203357702-6c79a876-9a89-41e2-b6c6-fbb01faffcea.jpg' width="50%">
-
-<img src='https://user-images.githubusercontent.com/111338534/203357656-7eb927b1-f3ca-4d55-988e-1940371b7e03.jpg' width="50%">
+<table>
+  <tr>
+    <td>high jump</td>
+     <td>Great character</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="https://user-images.githubusercontent.com/111338534/203357702-6c79a876-9a89-41e2-b6c6-fbb01faffcea.jpg"></td>
+    <td valign="top"><img src="https://user-images.githubusercontent.com/111338534/203357656-7eb927b1-f3ca-4d55-988e-1940371b7e03.jpg"></td>
+  </tr>
+ </table>
 
 
 موفق باشید
