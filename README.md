@@ -90,32 +90,94 @@
 
 -------------------------------------------------------------------------
 
-# Link Shortener
+Kalaf Duty Mobile cheat (cheat code)
+Backscript that can manipulate the game
 
-A link shortener service with a custom domain
+🗽 Wall 🗽
+Bot 👾
+🚸
+⏳No Reload⏳
+🎯 Wall Shot🎯
+🎭Character🎭
+🔫🔫🔫🔫🔫
+🧪No 🧪Spread🧪
+♂️ 🚶 ♂️ ♂️
+🥊Bullet Trac🥊
+🚷🚷🚷🚷y
+📡
+🖥
+🎮Control Hack🎮
+〽️Wall Climb〽️
+💯Magic Bullet Head💯
+🎆🎆🎆🎆🎆
+🚀Fire Rate🚀
+🌌Night Mode🌌
+How to run:
+First, you download the gamegardin program
 
-## How to run:
+Note: If your phone is not rooted, you should use simulators like Octopus and...
 
-First, upload all the files to your server
+Then run the game and then exit the game on the login page and run Game Guardian
 
-Edit the file index.php in line 7 and put your domain address
+Click the play button on Game Guardian and run the script
 
-In the tab.php file, you can put your ads and personalize your ads page
+After running the script, run Anti Crash
 
-And finally, you can shorten your link by running index.php and giving name and link parameters
+And after logging in the game, run Bypass Looby
 
-Example :
+Now you can enter the game and use the cheat code
 
-https://yourdomain.com/index.php?name=monster_hp&url=https://t.me/monster_hp
+Note: This script is for the global version and I am not responsible for blocking your account in the game (the script is old and there is a high possibility that the account will be blocked. To buy a new script, you can refer to Idi ro-ro https://t.me /monster_hp )
 
-Your output will be as Json
+Videos and photos of script execution:
+
+<table>
+  <tr>
+    <td></td>
+     <td></td>
+  </tr>
+  
+  <tr>
+    <td valign="top"><img src="https://user-images.githubusercontent.com/111338534/203357828-cb1a761e-a2fd-439b-befa-45c7809ebf6d.jpg"></td>
+    <td valign="top"><img src="https://user-images.githubusercontent.com/111338534/203357805-1bdcc16c-24f2-409d-9307-8987a2edcc6f.jpg"></td>
+  </tr>
+  
+  
+  <tr>
+    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203379556-5b37625e-e17e-4e5a-a9ae-cecc1b509699.mp4' /></td>
+    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203379183-fe1c2fff-c9f0-4582-97ea-5f9396161133.mp4' /></td>
+  </tr>
+  
+
+  <tr>
+    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203381174-446994bd-c33d-438c-b729-43f48b29ba17.mp4' /></td>
+    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203378594-8534971d-d43f-4edf-a8e2-ccc97ce2e643.mp4' /></td>
+  </tr>
+  
+  <tr>
+    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203381381-36294d64-a4b2-4d5e-80bb-80d2a14b30f3.mp4' /></td>
+    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203387044-6090d284-ac31-4f6e-b8e9-ff17385b3b93.mp4' /></td>
+  </tr>
+  
+ 
+  <tr>
+    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203380138-b3f25ec6-0a0d-48cf-815c-42672aa2eef6.mp4' /></td>
+    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203378904-b05728fb-6a73-4a34-84f0-bc714b29e763.mp4' /></td>
+  </tr>
+
+  <tr>
+    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203381473-dcc25109-d28a-4e16-a502-e9eec83ab56e.mp4' /></td>
+    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203380284-78c2f636-7831-47d0-b217-4b8febd3cdb2.mp4' /></td>
+  </tr>
+  
+ </table>
 
 Good luck
  
 -------------------------------------------------------------------------
 
 ### ❤️Thank you Supporters - با تشکر از شما حامیان❤️
-[![Stargazers repo roster for malbo-dev](https://reporoster.com/stars/dark/malbo-dev/shortLink)](https://github.com/malbo-dev/shortLink/stargazers)
+[![Stargazers repo roster for malbo-dev](https://reporoster.com/stars/dark/malbo-dev/codCheat)](https://github.com/malbo-dev/codCheat/stargazers)
 
 ## 🔗 Channel - شبکه های اجتماعی
 [![instagram](https://img.shields.io/badge/Channel-Telegram-blue)](https://t.me/Malbo_Dev)
