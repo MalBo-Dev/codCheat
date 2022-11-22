@@ -44,40 +44,6 @@
 
 فیلم ها و عکس هایی از اجرای اسکریپت :
 
-صد تیر
-
-https://user-images.githubusercontent.com/111338534/203379556-5b37625e-e17e-4e5a-a9ae-cecc1b509699.mp4
-
-اسنایپ
-
-https://user-images.githubusercontent.com/111338534/203379183-fe1c2fff-c9f0-4582-97ea-5f9396161133.mp4
-
-شاتگان
-
-https://user-images.githubusercontent.com/111338534/203381174-446994bd-c33d-438c-b729-43f48b29ba17.mp4
-
-https://user-images.githubusercontent.com/111338534/203378594-8534971d-d43f-4edf-a8e2-ccc97ce2e643.mp4
-
-آنتن
-
-https://user-images.githubusercontent.com/111338534/203381381-36294d64-a4b2-4d5e-80bb-80d2a14b30f3.mp4
-
-پارتی
-
-https://user-images.githubusercontent.com/111338534/203380138-b3f25ec6-0a0d-48cf-815c-42672aa2eef6.mp4
-
-شنا نکردن
-
-https://user-images.githubusercontent.com/111338534/203378904-b05728fb-6a73-4a34-84f0-bc714b29e763.mp4
-
-سپر
-
-https://user-images.githubusercontent.com/111338534/203381473-dcc25109-d28a-4e16-a502-e9eec83ab56e.mp4
-
-کارکتر و گان متیک
-
-https://user-images.githubusercontent.com/111338534/203380284-78c2f636-7831-47d0-b217-4b8febd3cdb2.mp4
-
 <table>
   <tr>
     <td>high jump</td>
@@ -92,9 +58,10 @@ https://user-images.githubusercontent.com/111338534/203380284-78c2f636-7831-47d0
     <td>barrage</td>
      <td>Snipe</td>
   </tr>
+  
   <tr>
-    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203379556-5b37625e-e17e-4e5a-a9ae-cecc1b509699.mp4' width=180/></td>
-    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203379183-fe1c2fff-c9f0-4582-97ea-5f9396161133.mp4' width=180/></td>
+    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203379556-5b37625e-e17e-4e5a-a9ae-cecc1b509699.mp4' /></td>
+    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203379183-fe1c2fff-c9f0-4582-97ea-5f9396161133.mp4' /></td>
   </tr>
   
     <tr>
@@ -102,8 +69,8 @@ https://user-images.githubusercontent.com/111338534/203380284-78c2f636-7831-47d0
      <td>shotgan</td>
   </tr>
   <tr>
-    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203381174-446994bd-c33d-438c-b729-43f48b29ba17.mp4' width=180/></td>
-    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203378594-8534971d-d43f-4edf-a8e2-ccc97ce2e643.mp4' width=180/></td>
+    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203381174-446994bd-c33d-438c-b729-43f48b29ba17.mp4' /></td>
+    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203378594-8534971d-d43f-4edf-a8e2-ccc97ce2e643.mp4' /></td>
   </tr>
   
       <tr>
@@ -111,8 +78,8 @@ https://user-images.githubusercontent.com/111338534/203380284-78c2f636-7831-47d0
      <td>Anten Multi</td>
   </tr>
   <tr>
-    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203381381-36294d64-a4b2-4d5e-80bb-80d2a14b30f3.mp4' width=180/></td>
-    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203387044-6090d284-ac31-4f6e-b8e9-ff17385b3b93.mp4' width=180/></td>
+    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203381381-36294d64-a4b2-4d5e-80bb-80d2a14b30f3.mp4' /></td>
+    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203387044-6090d284-ac31-4f6e-b8e9-ff17385b3b93.mp4' /></td>
   </tr>
   
         <tr>
@@ -120,8 +87,8 @@ https://user-images.githubusercontent.com/111338534/203380284-78c2f636-7831-47d0
      <td>not swimming</td>
   </tr>
   <tr>
-    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203380138-b3f25ec6-0a0d-48cf-815c-42672aa2eef6.mp4' width=180/></td>
-    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203378904-b05728fb-6a73-4a34-84f0-bc714b29e763.mp4' width=180/></td>
+    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203380138-b3f25ec6-0a0d-48cf-815c-42672aa2eef6.mp4' /></td>
+    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203378904-b05728fb-6a73-4a34-84f0-bc714b29e763.mp4' /></td>
   </tr>
   
          <tr>
@@ -129,8 +96,8 @@ https://user-images.githubusercontent.com/111338534/203380284-78c2f636-7831-47d0
      <td>Charecter And Skin</td>
   </tr>
   <tr>
-    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203381473-dcc25109-d28a-4e16-a502-e9eec83ab56e.mp4' width=180/></td>
-    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203380284-78c2f636-7831-47d0-b217-4b8febd3cdb2.mp4' width=180/></td>
+    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203381473-dcc25109-d28a-4e16-a502-e9eec83ab56e.mp4' /></td>
+    <td valign="top"><video src='https://user-images.githubusercontent.com/111338534/203380284-78c2f636-7831-47d0-b217-4b8febd3cdb2.mp4' /></td>
   </tr>
   
  </table>
