@@ -42,15 +42,41 @@
 
 توجه : این اسکریپت برای نسخه گلوبال میباشد و مسئولیتی در قبال مسدود شدن اکانت شما در بازی ندارم (اسکریپت قدیمی است و احتمال مسدود شدن اکانت بالا است. برای خرید اسکریپت جدید میتوانید به ایدی رو به رو مراجعه کنید https://t.me/monster_hp )
 
-فیلم هایی از اجرای اسکریپت :
+فیلم ها و عکس هایی از اجرای اسکریپت :
 
-<img src='https://user-images.githubusercontent.com/111338534/203357828-cb1a761e-a2fd-439b-befa-45c7809ebf6d.jpg'>
+صد تیر
+https://user-images.githubusercontent.com/111338534/203379556-5b37625e-e17e-4e5a-a9ae-cecc1b509699.mp4
 
-<img src='https://user-images.githubusercontent.com/111338534/203357805-1bdcc16c-24f2-409d-9307-8987a2edcc6f.jpg'>
+اسنایپ
+https://user-images.githubusercontent.com/111338534/203379183-fe1c2fff-c9f0-4582-97ea-5f9396161133.mp4
 
-<img src='https://user-images.githubusercontent.com/111338534/203357702-6c79a876-9a89-41e2-b6c6-fbb01faffcea.jpg'>
+شاتگان 
+https://user-images.githubusercontent.com/111338534/203381174-446994bd-c33d-438c-b729-43f48b29ba17.mp4
+https://user-images.githubusercontent.com/111338534/203378594-8534971d-d43f-4edf-a8e2-ccc97ce2e643.mp4
 
-<img src='https://user-images.githubusercontent.com/111338534/203357656-7eb927b1-f3ca-4d55-988e-1940371b7e03.jpg'>
+آنتن
+
+https://user-images.githubusercontent.com/111338534/203381381-36294d64-a4b2-4d5e-80bb-80d2a14b30f3.mp4
+
+پارتی
+https://user-images.githubusercontent.com/111338534/203380138-b3f25ec6-0a0d-48cf-815c-42672aa2eef6.mp4
+
+شنا نکردن 
+https://user-images.githubusercontent.com/111338534/203378904-b05728fb-6a73-4a34-84f0-bc714b29e763.mp4
+
+سپر
+https://user-images.githubusercontent.com/111338534/203381473-dcc25109-d28a-4e16-a502-e9eec83ab56e.mp4
+
+کارکتر و گان متیک
+https://user-images.githubusercontent.com/111338534/203380284-78c2f636-7831-47d0-b217-4b8febd3cdb2.mp4
+
+<img src='https://user-images.githubusercontent.com/111338534/203357828-cb1a761e-a2fd-439b-befa-45c7809ebf6d.jpg' width="50%">
+
+<img src='https://user-images.githubusercontent.com/111338534/203357805-1bdcc16c-24f2-409d-9307-8987a2edcc6f.jpg' width="50%">
+
+<img src='https://user-images.githubusercontent.com/111338534/203357702-6c79a876-9a89-41e2-b6c6-fbb01faffcea.jpg' width="50%">
+
+<img src='https://user-images.githubusercontent.com/111338534/203357656-7eb927b1-f3ca-4d55-988e-1940371b7e03.jpg' width="50%">
 
 
 موفق باشید
@@ -77,7 +103,7 @@ https://yourdomain.com/index.php?name=monster_hp&url=https://t.me/monster_hp
 
 Your output will be as Json
 
-Good  luck g
+Good luck
  
 -------------------------------------------------------------------------
 
