@@ -77,8 +77,8 @@ https://yourdomain.com/index.php?name=monster_hp&url=https://t.me/monster_hp
 
 Your output will be as Json
 
-Good luck
-
+Good  luck g
+ 
 -------------------------------------------------------------------------
 
 ### ❤️Thank you Supporters - با تشکر از شما حامیان❤️
